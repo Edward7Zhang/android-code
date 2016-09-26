@@ -1,1 +1,3 @@
 # android-code
+# There are some practice-code
+# I'am just start...
